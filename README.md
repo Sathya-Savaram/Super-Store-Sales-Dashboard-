@@ -1,7 +1,7 @@
 # SuperStore Sales Dashboard Using Power BI
 
 ## 📌 Description
-Interactive sales dashboard built in Power BI to visualize SuperStore sales data and highlight key business insights for decision-making.
+This project is an interactive sales dashboard built in Power BI to track and analyze sales performance. It provides insights into revenue, regional sales, and customer trends, helping to make informed business decisions.
 
 ---
 
@@ -18,6 +18,7 @@ Interactive sales dashboard built in Power BI to visualize SuperStore sales data
 - Sales vs. Profit analysis
 - State-wise sales contribution
 - Monthly and yearly sales trends
+- Interactive charts with drill-downs and filters
 
 ---
 
@@ -26,6 +27,7 @@ Interactive sales dashboard built in Power BI to visualize SuperStore sales data
 - Avoided clutter and excessive color usage
 - Added clear titles, labels, and tooltips for context
 - Highlighted key takeaways from each visualization
+
 
 ---
 
